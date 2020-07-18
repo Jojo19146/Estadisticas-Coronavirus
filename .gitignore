@@ -104,7 +104,7 @@ dist
 .tern-port
 
 # Package Lock 
-package-lock.json
+git add package-lock.json
 
 # VSCODE
 .vscode/
